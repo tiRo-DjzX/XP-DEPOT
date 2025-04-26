@@ -1,0 +1,72 @@
+**Terms of Service for .djzx's Discord Bot**
+
+**Last Updated:** April 26, 2025
+
+By using .djzx's Discord bot (the "Bot"), you agree to be bound by these Terms of Service ("Terms"). Please read them carefully.
+
+**.1. Acceptance of Terms**
+
+These Terms constitute a legally binding agreement between you (the user) and the operator of the Bot (".djzx" or "we", "us", "our"). By adding the Bot to your Discord server, using its commands, or otherwise interacting with it, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you may not use the Bot.
+
+**.2. Bot Functionality**
+
+The Bot provides several features to enhance your Discord server experience:
+
+* **Leveling System:** Rewards users with experience points (XP) for activity within Discord servers, including sending messages, reacting to messages, and spending time in voice channels.
+* **XP-Based Games:** Offers mini-games initiated through specific commands where winners can earn XP.
+* **Moderator Tools (Commands Restricted to Moderators):**
+    * Adding and removing users from the Bot's database (likely related to access to certain features).
+    * Setting the designated channel for level-up notifications.
+    * Displaying server-wide leaderboards based on user levels and XP.
+    * Importing historical user ID and XP data from JSON files.
+
+Please note that the majority of commands, including those related to user management, leveling configuration, leaderboards, and data import, are restricted to users with moderator roles within the Discord server where the Bot is used.
+
+**.3. User Conduct**
+
+By using the Bot, you agree to the following rules of conduct:
+
+* **No Cheating:** You will not engage in any activity that attempts to exploit or manipulate the Bot's systems, particularly the leveling system or the XP-games, to gain an unfair advantage.
+* **No Circumventing Premium Options:** If the Bot offers premium features, you will not attempt to access or use them without proper authorization or payment, as applicable.
+* **No Bad Use Intentions:** You will not use the Bot for any harmful, disruptive, or otherwise negative purposes, including but not limited to spamming, harassment, or violating Discord's Terms of Service or Community Guidelines.
+
+**.4. Data Handling and Privacy**
+
+The Bot collects and stores certain user and server data to provide its functionality, including:
+
+* Discord User IDs
+* Discord Usernames and Nicknames
+* Discord Server IDs and Names
+* User XP and Level information
+* Voice channel join times (temporarily, for XP calculation)
+* Server-specific settings, such as the level-up channel ID.
+
+We are committed to protecting your privacy. A separate Privacy Policy outlining our data handling practices in more detail will be made available on our GitHub repository [You will need to add the link here once your repository is created and the policy is uploaded]. Please review the Privacy Policy for more information.
+
+**.5. Limitations of Liability**
+
+THE BOT IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, .DJZX SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF OR RELATING TO YOUR USE OF OR INABILITY TO USE THE BOT. YOUR SOLE AND EXCLUSIVE REMEDY FOR DISSATISFACTION WITH THE BOT IS TO CEASE USING IT.
+
+**.6. Intellectual Property**
+
+The code, design, and any original content created by the Bot are owned by .djzx and are protected by applicable intellectual property laws. By using the Bot, you do not acquire any ownership rights to the Bot or its components.
+
+**.7. Termination**
+
+We reserve the right to suspend or terminate your access to the Bot, in whole or in part, at any time and for any reason, including but not limited to your violation of these Terms.
+
+**.8. Governing Law**
+
+These Terms shall be governed by and construed in accordance with the laws of the United States and the State of Arizona, without regard to its conflict of law provisions.
+
+**.9. Contact Information**
+
+If you have any questions or concerns about these Terms, please contact us on Discord at `.djzx`.
+
+**.10. Updates to These Terms**
+
+We may update these Terms from time to time. Any changes will be posted on our GitHub repository [You will need to add the link here once your repository is created]. It is your responsibility to review these Terms periodically for any updates. Your continued use of the Bot after the posting of revised Terms constitutes your acceptance of the changes.
+
+---
+
+This should now be a more complete Terms of Service for your Discord bot. Remember to follow the next steps I outlined earlier to finalize and make these terms accessible to your users. Let me know if you have any other questions!
