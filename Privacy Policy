@@ -1,60 +1,76 @@
-**Privacy Policy for .djzx's Discord Bot**
+XP DEPOT - Privacy Policy
+Effective Date: May 9, 2025
 
-**Last Updated:** April 26, 2025
+This Privacy Policy governs the collection, use, and sharing of personal information by XP DEPOT ("the Bot"), a Discord bot developed by Team XP Labs (Owner: .djzx, User ID: 523606077795860530). By using XP DEPOT, you agree to the terms of this Privacy Policy.
 
-This Privacy Policy describes how .djzx ("we", "us", "our") collects, uses, and shares information when you use our Discord bot (the ".djzx's Discord Bot" or the "Bot").
+1. Information We Collect
 
-**.1. Information We Collect**
+To provide and improve the Bot's functionalities, we collect and process certain information when you interact with XP DEPOT. This includes:
 
-We collect the following types of information from users of the Bot:
+ㆍUser Information:
+    ㆍYour Discord User ID
+    ㆍYour Discord username, global name, and server-specific nickname
+ㆍServer Information:
+    ㆍThe Discord Server ID and Server Name where the Bot is used
+    ㆍChannel information related to Bot commands or features (e.g., level-up channel, game-winning channel)
+ㆍUsage Data & Bot Interaction:
+    ㆍContent of messages that trigger commands or contribute to XP gain (e.g., message content for message-based XP)
+    ㆍReactions you add to messages (for reaction-based XP)
+    ㆍYour activity in voice channels (join and leave times for voice-based XP)
+    ㆍData related to your XP, level, and rank within servers
+    ㆍInformation about your participation in games offered by the Bot (e.g., Blackjack, Button Search, Connect4, Hangman, Memory, Rock Paper Scissors, Texas Hold'em, Tic-Tac-Toe), including bets and outcomes.
+    ㆍXP Boost status (multiplier and expiration)
+    ㆍRole color emojis for display purposes
+ㆍData Storage:
+    ㆍThis information is stored in a MongoDB database hosted by us.
 
-* **Discord User Information:** To provide the Bot's features, we collect your Discord User ID, username, and nickname(s).
-* **Discord Server Information:** We collect the Discord Server ID and name where the Bot is used.
-* **Leveling Data:** We collect and store your XP and level progression.
-* **Voice Channel Data (Temporary):** When you participate in voice channels, we temporarily track your join and leave times to calculate and award XP. This data is generally not stored long-term once the XP is awarded.
-* **XP-Game Data:** When you participate in XP-based games, we may collect data related to your participation and outcomes (e.g., whether you won or lost, XP earned).
-* **Moderator Actions:** We may log actions taken by server moderators using the Bot's administrative commands (e.g., adding/removing users, setting the level-up channel).
-
-**.2. How We Use Your Information**
+2. How We Use Your Information
 
 We use the collected information for the following purposes:
 
-* **Providing Bot Functionality:** To operate the leveling system, award XP, track levels, and facilitate XP-based games.
-* **Level-Up Notifications:** To send level-up messages in the designated server channel.
-* **Leaderboard Functionality:** To display server leaderboards based on user XP and levels.
-* **Bot Administration:** To manage and improve the Bot's performance and features.
-* **Support:** To provide support and address user inquiries.
-* **Enforcing Terms of Service:** To monitor and enforce our Terms of Service, including preventing cheating or misuse of the Bot.
+ㆍTo Provide and Operate the Bot:
+    ㆍTo enable the core XP and leveling system
+    ㆍTo facilitate games and manage game-related data.
+    ㆍTo manage the XP Shop and XP boosts
+    ㆍTo display leaderboards and rank cards
+ㆍTo Improve the Bot:
+    ㆍTo understand usage patterns and identify areas for improvement.
+    ㆍTo develop new features and functionalities.
+ㆍTo Provide Support:
+    ㆍTo respond to your requests and provide assistance through our support channels (e.g., our Discord Support Channel: https://discord.gg/QXU8x5DUBn).
+ㆍTo Comply with Legal Obligations and Enforce Policies:
+    ㆍTo enforce our Terms of Service and prevent abuse.
+    ㆍTo comply with applicable laws and regulations, or respond to valid legal requests.
 
-**.3. Sharing of Your Information**
+3. Sharing Your Information
 
-We may share your information in the following limited circumstances:
+We are committed to protecting your privacy.
 
-* **Within the Discord Server:** Information such as usernames, nicknames, and leveling data (including leaderboard rankings) may be visible to other members of the Discord server where the Bot is used.
-* **With Server Moderators:** Server moderators may have access to user data through the Bot's administrative commands for the purpose of managing the Bot and the server's community.
-* **Legal Requirements:** We may disclose your information if required to do so by law or in response to a valid legal request.
-* **Service Providers (If Applicable):** If we use third-party service providers to help us operate the Bot (e.g., for database hosting), they may have access to your information to perform services on our behalf, but they will be obligated to protect it in accordance with this Privacy Policy. **[Note: Based on your current `index.js` and schemas, you seem to be directly managing your database. If this changes, you'll need to update this section.]**
+    ㆍWe do not sell your personal information to third parties.
+    ㆍYour information (such as username, XP, level) may be visible to other users within the Discord servers where XP DEPOT is active, particularly through features like leaderboards or rank cards.
+    ㆍWe may disclose your information if required by law, such as in response to a subpoena, court order, or other governmental request.   
+    ㆍBot administrators (Team XP Labs) may access data for the purposes of operating, maintaining, and improving the Bot, including using admin commands to manage user data as described in the Bot's features.
 
-**.4. Data Retention**
+4. Data Retention
 
-We will retain your personal information for as long as necessary to provide the Bot's functionality and as outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. For example, leveling data is generally retained as long as a user is part of a server using the Bot to maintain their progress. Temporary voice channel data is typically deleted shortly after processing.
+We retain your information for as long as necessary to provide XP DEPOT's services, or as long as your account is active on a server using the Bot. You can request the removal of your data associated with XP DEPOT by contacting us through our Support Server or via xplabs44@gmail.com. We will also delete data if required by law or if it is no longer needed for the purposes outlined in this policy.
 
-**.5. Your Rights**
+5. Data Security
 
-Depending on your location and applicable data protection laws, you may have certain rights regarding your personal information, such as the right to access, correct, or delete your data. To exercise these rights, please contact us on Discord at `.djzx`. We will respond to your request in accordance with applicable laws.
+We take reasonable measures to protect your information from unauthorized access, alteration, disclosure, or destruction. Our data is stored in a MongoDB database, and we implement security practices to safeguard this data. However, no security system is impenetrable, and we cannot guarantee the absolute security of your information.   
 
-**.6. Children's Privacy**
+6. Children's Privacy   
 
-The Bot is intended for general audiences and does not knowingly collect personal information from children under the age of 13 (or other applicable age of consent in your jurisdiction). If we become aware that we have collected personal information from a child without verifiable parental consent, we will take steps to delete that information.
+XP DEPOT is not intended for use by children under the age of 13 (or the relevant age of consent in your jurisdiction). We do not knowingly collect personal information from children under this age. If we become aware that a child under this age has provided us with personal information, we will take steps to delete such information.   
 
-**.7. Security**
+7. Changes to This Privacy Policy
 
-We take reasonable measures to protect the information we collect from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. However, no internet or electronic transmission is completely secure, so we cannot guarantee absolute security.
+We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy on our GitHub repository and/or through our Support Server. Your continued use of XP DEPOT after such changes will constitute your consent to the updated policy.   
 
-**.8. Changes to This Privacy Policy**
+8. Contact Us
 
-We may update this Privacy Policy from time to time. Any changes will be posted on our GitHub repository [You will need to add the link here once your repository is created]. We encourage you to review this Privacy Policy periodically for any updates. Your continued use of the Bot after the posting of revised Privacy Policy constitutes your acceptance of the changes.
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us:   
 
-**.9. Contact Us**
-
-If you have any questions or concerns about this Privacy Policy, please contact us on Discord at `.djzx`.
+    ㆍDiscord Support Channel: https://discord.gg/QXU8x5DUBn
+    ㆍGitHub Repository: https://github.com/tiRo-DjzX/XP-DEPOT
+    ㆍEmail: xplabs44@gmail.com
