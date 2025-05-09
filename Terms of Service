@@ -1,68 +1,63 @@
-**Terms of Service for .djzx's Discord Bot**
+XP DEPOT - Terms of Service
+Effective Date: May 9, 2025
 
-**Last Updated:** April 26, 2025
+This Terms of Service Agreement (the "Agreement") is entered into between Team XP Labs (Owner: .djzx, "Bot Owner") and the user ("User") of the XP DEPOT Discord bot ("the Bot"). By using the Bot, the User agrees to be bound by the terms of this Agreement.
 
-By using .djzx's Discord bot (the "Bot"), you agree to be bound by these Terms of Service ("Terms"). Please read them carefully.
+If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Bot.   
 
-**.1. Acceptance of Terms**
+1. Use of the Bot
 
-These Terms constitute a legally binding agreement between you (the user) and the operator of the Bot (".djzx" or "we", "us", "our"). By adding the Bot to your Discord server, using its commands, or otherwise interacting with it, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you may not use the Bot.
+The Bot Owner grants the User a non-exclusive, non-transferable, limited license to use the Bot for personal or community-enjoyment (non-commercial) purposes within Discord servers where the Bot has been rightfully added.
 
-**.2. Bot Functionality**
+2. Prohibited Use
 
-The Bot provides several features to enhance your Discord server experience:
+The User may not use the Bot in any way that:
 
-* **Leveling System:** Rewards users with experience points (XP) for activity within Discord servers, including sending messages, reacting to messages, and spending time in voice channels.
-* **XP-Based Games:** Offers mini-games initiated through specific commands where winners can earn XP.
-* **Moderator Tools (Commands Restricted to Moderators):**
-    * Adding and removing users from the Bot's database (likely related to access to certain features).
-    * Setting the designated channel for level-up notifications.
-    * Displaying server-wide leaderboards based on user levels and XP.
-    * Importing historical user ID and XP data from JSON files.
+      ㆍViolates any applicable local, national, or international laws, rules, or regulations.
+      ㆍInfringes upon the rights of any third party, including intellectual property rights.
+      ㆍViolates Discord's Terms of Service or Community Guidelines.
+      ㆍIs for any commercial purposes without the express written consent of the Bot Owner.
+      ㆍAttempts to disrupt, impair, or interfere with the Bot's functionality or its services to other users (e.g., through spamming commands, exploiting bugs, or attempting unauthorized access).
+      ㆍInvolves reverse engineering, decompiling, or disassembling the Bot, except to the extent that such activity is expressly permitted by applicable law.
 
-Please note that the majority of commands, including those related to user management, leveling configuration, leaderboards, and data import, are restricted to users with moderator roles within the Discord server where the Bot is used.
+3. User Data and Privacy
 
-**.3. User Conduct**
+Your use of the Bot is also governed by our Privacy Policy, which can be found [here/above/on our GitHub]. The Privacy Policy details how we collect, use, and protect your data. By using the Bot, you consent to the data practices described in the Privacy Policy.
 
-By using the Bot, you agree to the following rules of conduct:
+4. Intellectual Property
 
-* **No Cheating:** You will not engage in any activity that attempts to exploit or manipulate the Bot's systems, particularly the leveling system or the XP-games, to gain an unfair advantage.
-* **No Circumventing Premium Options:** If the Bot offers premium features, you will not attempt to access or use them without proper authorization or payment, as applicable.
-* **No Bad Use Intentions:** You will not use the Bot for any harmful, disruptive, or otherwise negative purposes, including but not limited to spamming, harassment, or violating Discord's Terms of Service or Community Guidelines.
+The Bot, including its source code, features, and all related intellectual property rights, are and shall remain the property of the Bot Owner (Team XP Labs / .djzx). The User agrees not to copy, modify, or distribute the Bot or any portion thereof without the express written consent of the Bot Owner.   
 
-**.4. Data Handling and Privacy**
+5. Limitation of Liability
 
-The Bot collects and stores certain user and server data to provide its functionality, including:
+The Bot is provided "as is" and "as available" without any warranties of any kind, express or implied. The Bot Owner shall not be liable for any damages arising out of the use or inability to use the Bot, including but not limited to, damages for loss of enjoyment, loss of data, loss of virtual currency (XP), or other intangible losses, even if the Bot Owner has been advised of the possibility of such damages.   
 
-* Discord User IDs
-* Discord Usernames and Nicknames
-* Discord Server IDs and Names
-* User XP and Level information
-* Voice channel join times (temporarily, for XP calculation)
-* Server-specific settings, such as the level-up channel ID.
+The Bot Owner is not responsible for any actions taken by users of the Bot, or for any content generated by users through the Bot.
 
-We are committed to protecting your privacy. A separate Privacy Policy outlining our data handling practices in more detail will be made available on our GitHub repository https://github.com/tiRo-DjzX/XP-DEPOT/tree/main. Please review the Privacy Policy for more information.
+6. Modifications to the Bot and Terms
 
-**.5. Limitations of Liability**
+The Bot Owner reserves the right to modify, suspend, or discontinue the Bot, or any part thereof, at any time with or without notice. The User agrees that the Bot Owner shall not be liable to the User or any third party for any modification, suspension, or discontinuance of the Bot.   
 
-THE BOT IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, .DJZX SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF OR RELATING TO YOUR USE OF OR INABILITY TO USE THE BOT. YOUR SOLE AND EXCLUSIVE REMEDY FOR DISSATISFACTION WITH THE BOT IS TO CEASE USING IT.
+We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Service at any time and for any reason. We will alert you about any changes by posting the updated Terms of Service on our GitHub repository and/or through our Support Server. You are encouraged to periodically review these Terms of Service to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Service by your continued use of the Bot after the date such revised Terms of Service are posted.   
 
-**.6. Intellectual Property**
+7. Termination
 
-The code, design, and any original content created by the Bot are owned by .djzx and are protected by applicable intellectual property laws. By using the Bot, you do not acquire any ownership rights to the Bot or its components.
+This Agreement is effective until terminated by either party. The Bot Owner may terminate your access to the Bot at any time, without notice, for any reason, including but not limited to, a breach of this Agreement or Discord's Terms of Service. Upon termination, the User must immediately cease all use of the Bot.
 
-**.7. Termination**
+8. Governing Law
 
-We reserve the right to suspend or terminate your access to the Bot, in whole or in part, at any time and for any reason, including but not limited to your violation of these Terms.
+This Agreement shall be governed by and construed in accordance with the laws of the State of Arizona, United States. Any dispute arising under or in connection with this Agreement shall be resolved through amicable negotiation, and failing that, through the competent courts of Maricopa County, Arizona. 
 
-**.8. Governing Law**
+9. Entire Agreement
 
-These Terms shall be governed by and construed in accordance with the laws of the United States and the State of Arizona, without regard to its conflict of law provisions.
+This Agreement, together with the Privacy Policy, constitutes the entire agreement between the Bot Owner and the User concerning the use of the Bot and supersedes all prior or contemporaneous agreements or representations, whether written or oral, relating to the Bot.
 
-**.9. Contact Information**
+10. Contact
 
-If you have any questions or concerns about these Terms, please contact us on Discord at `.djzx`.
+If you have any questions or concerns about these Terms of Service, please contact us:
 
-**.10. Updates to These Terms**
+      ㆍDiscord Support Channel: https://discord.gg/QXU8x5DUBn
+      ㆍGitHub Repository: https://github.com/tiRo-DjzX/XP-DEPOT
+      ㆍEmail: xplabs44@gmail.com
 
-We may update these Terms from time to time. Any changes will be posted on our GitHub repository https://github.com/tiRo-DjzX/XP-DEPOT/tree/main. It is your responsibility to review these Terms periodically for any updates. Your continued use of the Bot after the posting of revised Terms constitutes your acceptance of the changes.
+By using XP DEPOT, the User acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
